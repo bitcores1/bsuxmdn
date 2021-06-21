@@ -1,0 +1,1 @@
+you should not change the path: C:\Program Files\bitcores user xmdn 1.0\user xmdn\application\view\anyCPU\data\01.setup as it will affect Hkey/.about and hkey/xmdn.about.file /shell/open/command because the application works on the .NET framework.
